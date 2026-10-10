@@ -8,9 +8,9 @@ The project uses **HistGradientBoostingRegressor** with lag features, rolling st
 
 ## 🚀 Live Demo
 
-🔗 **[Open the Streamlit App](YOUR_STREAMLIT_APP_URL)**
+🔗 **[Open the Streamlit App](https://m5demandforecastinggit-bc6ydjkukyfrlrpmnlzeqs.streamlit.app/)**
 
-🔗 **[GitHub Repository](YOUR_GITHUB_REPOSITORY_URL)**
+🔗 **[GitHub Repository](https://github.com/CodeMaestro-sys/M5_Demand_Forecasting.git)**
 
 ---
 
@@ -145,7 +145,7 @@ Demand-Forecasting/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/CodeMaestro-sys/M5_Demand_Forecasting.git
 ```
 
 ### 2. Navigate to the project folder
